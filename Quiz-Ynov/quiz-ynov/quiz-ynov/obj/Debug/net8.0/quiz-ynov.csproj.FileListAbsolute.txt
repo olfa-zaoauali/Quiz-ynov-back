@@ -1,0 +1,69 @@
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\appsettings.json
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\quiz-ynov.exe
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\quiz-ynov.deps.json
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\quiz-ynov.runtimeconfig.json
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\quiz-ynov.dll
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\quiz-ynov.pdb
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.csproj.AssemblyReference.cache
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.AssemblyInfoInputs.cache
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.AssemblyInfo.cs
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.csproj.CoreCompileInputs.cache
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets\msbuild.quiz-ynov.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets\msbuild.build.quiz-ynov.props
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.quiz-ynov.props
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.quiz-ynov.props
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\scopedcss\bundle\quiz-ynov.styles.css
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.csproj.Up2Date
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.dll
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\refint\quiz-ynov.dll
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.pdb
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.genruntimeconfig.cache
+C:\Users\MHAMM\OneDrive\Bureau\quiz-ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\ref\quiz-ynov.dll
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\appsettings.json
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\quiz-ynov.staticwebassets.endpoints.json
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\quiz-ynov.exe
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\quiz-ynov.deps.json
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\quiz-ynov.runtimeconfig.json
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\quiz-ynov.dll
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\quiz-ynov.pdb
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.csproj.AssemblyReference.cache
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.AssemblyInfoInputs.cache
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.AssemblyInfo.cs
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.csproj.CoreCompileInputs.cache
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.sourcelink.json
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\scopedcss\bundle\quiz-ynov.styles.css
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets\msbuild.quiz-ynov.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets\msbuild.quiz-ynov.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets\msbuild.build.quiz-ynov.props
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.quiz-ynov.props
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.quiz-ynov.props
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.csproj.Up2Date
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.dll
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\refint\quiz-ynov.dll
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.pdb
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\quiz-ynov.genruntimeconfig.cache
+C:\Users\olfaz\Desktop\YNOV\dev full stack\Quiz-Ynov\olfa-zaoauali\Quiz-Ynov\quiz-ynov\quiz-ynov\obj\Debug\net8.0\ref\quiz-ynov.dll
